@@ -1,0 +1,45 @@
+{
+  "name": "visicol",
+  "version": "1.0.0",
+  "description": "Descubre los Tesoros Turísticos de Colombia con Visicol, una encantadora landing page que presenta los principales destinos turísticos del país y brinda información sobre costos para planificar tu viaje de ensueño.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jcomte23/Visicol.git"
+  },
+  "keywords": [
+    "turismo",
+    "colombia",
+    "destinos",
+    "viajes",
+    "landing",
+    "page",
+    "aventura",
+    "costos",
+    "experiencias",
+    "belleza",
+    "cultura",
+    "naturaleza",
+    "suramérica",
+    "vacaciones",
+    "escapada",
+    "itinerario",
+    "explorar",
+    "sitios",
+    "turísticos",
+    "planificación",
+    "alojamiento",
+    "guía",
+    "viaje",
+    "jcomte23"
+  ],
+  "author": "Javier Cómbita Téllez <jcomte23@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcomte23/Visicol/issues"
+  },
+  "homepage": "https://github.com/jcomte23/Visicol#readme"
+}
